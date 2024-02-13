@@ -1,0 +1,39 @@
+_repo: Tag-und-Nacht-b-Der-Stunden-schneller-Wechsellauf-vom-Morgengrauen-bis-Mitternacht_72801
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bauriedl, Otto
+    birthdate: 1879
+    deathdate: 1961
+    gutenberg_agent_id: '56808'
+    url: http://www.gutenberg.org/2009/agents/56808
+    wikipedia: https://de.wikipedia.org/wiki/Otto_Bauriedl
+creator:
+  editor:
+    agent_name: Weber, Ernst
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '33069'
+    url: http://www.gutenberg.org/2009/agents/33069
+    wikipedia: https://de.wikipedia.org/wiki/Ernst_Weber_(P%C3%A4dagoge)
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72801'
+language: de
+pgterms:marc905: 20230930025612weber
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aMünchen :$bGeorg D. W. Callwey, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry'
+- !lcc 'PT'
+- GITenberg
+title: 'Tag und Nacht : $b Der Stunden schneller Wechsellauf vom Morgengrauen bis
+  Mitternacht'
+url: http://www.gutenberg.org/ebooks/72801
