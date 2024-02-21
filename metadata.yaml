@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '56808'
     url: http://www.gutenberg.org/2009/agents/56808
     wikipedia: https://de.wikipedia.org/wiki/Otto_Bauriedl
+covers:
+- cover_type: archival
+  image_path: 72801-h/images/cover.jpg
 creator:
   editor:
     agent_name: Weber, Ernst
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33069
     wikipedia: https://de.wikipedia.org/wiki/Ernst_Weber_(P%C3%A4dagoge)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72801#Tag-und-Nacht-b-Der-Stunden-schneller-Wechsellauf-vom-Morgengrauen-bis-Mitternacht
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
